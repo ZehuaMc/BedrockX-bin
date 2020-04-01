@@ -1,0 +1,2 @@
+# BedrockX-bin
+prebuilt binaries
